@@ -271,6 +271,7 @@ def check_id(id):
 
 # 保存上下班时间
 def save_work_time(work_time, close_time):
+    # 赋值给全局变量
     o.WORK_TIME = work_time
     o.CLOSING_TIME = close_time
     io.save_work_time_config()  # 上下班时间保存到文件中
