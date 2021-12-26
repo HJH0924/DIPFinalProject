@@ -7,7 +7,7 @@
 """
 组织结构
 """
-
+# confirmed by hjh in Dec 26th
 
 # 教职工类
 class Employee:
