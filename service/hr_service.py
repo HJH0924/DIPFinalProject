@@ -8,9 +8,9 @@
 人事管理服务
 """
 
-# confirmed by xjh in Dec 26th
-# modified by hjh in Dec 27th
-# confirmed by xjh in Dec 27th
+# confirmed by xjh on Dec 26th
+# modified by hjh on Dec 27th
+# confirmed by xjh on Dec 27th
 
 from entity import organizations as o
 from util import public_tools as tool
