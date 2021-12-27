@@ -9,6 +9,7 @@
 """
 
 # commited by hjh in Dec 27th
+# confirmed by xjh in Dec 27th
 
 import cv2
 import numpy as np
