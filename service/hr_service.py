@@ -8,6 +8,8 @@
 人事管理服务
 """
 
+# confirmed by xjh in Dec 26th
+
 from entity import organizations as o
 from util import public_tools as tool
 from util import io_tools as io

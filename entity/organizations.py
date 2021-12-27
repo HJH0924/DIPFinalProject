@@ -8,7 +8,7 @@
 组织结构
 """
 # confirmed by hjh in Dec 26th
-
+# modified by xjh in Dec 26th again
 # 教职工类
 class Employee:
     def __init__(self, id, name, code):
