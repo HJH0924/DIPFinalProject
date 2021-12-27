@@ -8,8 +8,8 @@
 人脸识别服务
 """
 
-# commited by hjh in Dec 27th
-# confirmed by xjh in Dec 27th
+# commited by hjh on Dec 27th
+# confirmed by xjh on Dec 27th
 
 import cv2
 import numpy as np
