@@ -9,7 +9,7 @@
 """
 
 # camera.py commited by hjh on Dec 28th
-
+# camera.py confirmed by xjh on Dec 28th
 import cv2
 from util import public_tools as tool
 from util import io_tools as io

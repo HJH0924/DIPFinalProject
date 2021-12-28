@@ -11,6 +11,7 @@ import random
 import datetime
 from entity import organizations as o
 
+# camera.py confirmed by xjh on Dec 28th
 
 # 随机生成长度为len的数字
 def randomNumber(len):
