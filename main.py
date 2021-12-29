@@ -8,6 +8,8 @@
 主入口
 """
 
+# commited by xjh on Dec 29th
+
 from util import camera
 from util import public_tools as tool
 from service import hr_service as hr
